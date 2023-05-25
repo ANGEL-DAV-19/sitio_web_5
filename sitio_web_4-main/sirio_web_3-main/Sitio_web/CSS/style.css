@@ -1,0 +1,38 @@
+
+    body{
+        margin: 0em;
+    }
+    .cover{
+        height: 400px;
+        background-image: url("../img/carro.jpg");
+        color: white;
+        background-size:cover ;
+        background-position: center;
+        background-color: rgb(0, 0, 0, 0.5);
+        background-blend-mode:darken ;
+    }
+    
+    .cover-small {
+        height: 200px;
+        background-blend-mode: normal;
+
+    }
+
+    .card {
+        box-shadow: 0 4px 6px -1px rgb(0, 0, 0, 0.1), 0 2px 4px -1px rgb(0, 0, 0, 0.6);
+    }
+
+    .card-title {
+        font-family: 'Dancing Script',cursive;
+        min-height: 3rem;
+    }
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Konkhmer Sleokchher', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+}
+#img4 {
+    max-width: 100%;
+    height: auto;
+}
